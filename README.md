@@ -7,11 +7,11 @@
 | | |
 |---|---|
 | **Team Name** | D3ADcode |
-| **Team Size** | 1 (individual participant) |
-| **Participant** | Tejas Fuse |
-| **GitHub** | [github.com/tejas-fuse](https://github.com/tejas-fuse) |
-| **Email** | tejasfuse343.caption@gmail.com |
-| **Phone** | +91 94235 91941 |
+| **Team Size** | 2 |
+| **Participant** | 1. Tejas Fuse 2. Darshan Lahase |
+| **GitHub** | 1. [tejas-fuse](https://github.com/tejas-fuse) 2. [lahasedarshan-01](https://github.com/lahasedarshan-01) |
+| **Email** | 1. tejasfuse343.caption@gmail.com 2. lahasedarshan@gmail.com |
+| **Phone** | 1. +91 94235 91941 2. +91 96372 39930 |
 | **Selected Track** | Best Use of Gemma 4 / Gemma 4 Open-Source |
 | **Core Technology** | Google Gemma 4 (open-weight, Apache 2.0) |
 | **Organizer** | Elevate (Powered by MLH and DEV) |
